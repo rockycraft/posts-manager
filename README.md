@@ -22,7 +22,7 @@ Para ejecutar el proyecto, sigue estos pasos:
    pnpm dev
    ```
 
-📌 **Nota:** La librería **MSW** funciona únicamente en el entorno de desarrollo, ya que usa un service worker para interceptar las solicitudes HTTP y simular respuestas de un backend.
+📌 **Nota:** La librería **MSW** funciona únicamente en el entorno de desarrollo, ya que está diseñada para esto. Usa un service worker para interceptar las solicitudes HTTP y simular respuestas de un backend.
 
 ---
 
